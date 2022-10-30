@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ADRESSBOOK</string>
+    <string name="list_of_users">Список пользователей</string>
+    <string name="add_user">  Добавить пользователя  </string>
+    <string name="show_users">  Показать пользователей  </string>
+    <string name="change_info_of_user">Изменение данных пользователя</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="birthdate">Год рождения</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="change">  Изменить  </string>
+    <string name="add_user_form">Добавление пользователя</string>
+    <string name="savebtn">Сохранить</string>
+    <string name="information_of_user">Информация о пользователе</string>
+    <string name="deletebtn">  Удалить  </string>
+</resources>
